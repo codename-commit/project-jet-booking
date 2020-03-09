@@ -14,7 +14,7 @@ class App extends Component {
       longitude: null,
       latitude: null,
       userAddress: null,
-      view: true,
+      view: false,
       networth:"1 billion +",
       plane: [
         {id: 1, status:'available'},
