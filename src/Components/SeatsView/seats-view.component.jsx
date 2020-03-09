@@ -16,7 +16,7 @@ return (
     )
     )}</div>
     <p>TAIL</p>
-    <button onClick={onForm}>FORM</button>
+    <button type='button' onClick={onForm}>FORM</button>
     </div>
 // {/* <div className='Card-List'>{props.children}</div> */}
 );

@@ -102,7 +102,7 @@ class App extends Component {
 
   
   render(){
-      console.log(this.state)
+      // console.log(this.state)
     const  {view, plane} = this.state
     return (
       <div className="App">

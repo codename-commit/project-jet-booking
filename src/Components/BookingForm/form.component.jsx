@@ -43,7 +43,7 @@ export const BookingForm = ({onForm}) => {
           <option name='1 000 000 000+'>1 000 000 000+</option>
         </select>
         <br/><br/>
-      <button onClick={onForm} type="onSubmit">Confirm</button>
+      <button onClick={onForm} type="submit">Confirm</button>
       </form>
       
     );
